@@ -16,7 +16,7 @@ headers = {
 }
 
 payload = {
-	"max_tokens": 60,
+	"max_tokens": 250,
 	"temperature": 0,
 	"top_p": 1,
 	"n": 1,
